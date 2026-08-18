@@ -1,5 +1,4 @@
 # mikeycube.github.io
-jekyll-theme-minimal
 
 Michael's homepage
 
